@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809728350918",
+    "project_id": "practical-assesment-4",
+    "storage_bucket": "practical-assesment-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809728350918:android:3b757cc11b21ac632b55c7",
+        "android_client_info": {
+          "package_name": "com.raihan.practicalassesment_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrDq3KyJZ4qgNBaNzhNwC0xG7w09vLlbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
